@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\bin\Debug\netcoreapp3.1\Task03_A.exe
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\bin\Debug\netcoreapp3.1\Task03_A.deps.json
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\bin\Debug\netcoreapp3.1\Task03_A.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\bin\Debug\netcoreapp3.1\Task03_A.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\bin\Debug\netcoreapp3.1\Task03_A.dll
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\bin\Debug\netcoreapp3.1\Task03_A.pdb
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\obj\Debug\netcoreapp3.1\Task03_A.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\obj\Debug\netcoreapp3.1\Task03_A.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\obj\Debug\netcoreapp3.1\Task03_A.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\obj\Debug\netcoreapp3.1\Task03_A.dll
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\obj\Debug\netcoreapp3.1\Task03_A.pdb
+C:\Users\Kiril\source\repos\Exam_ReTake\Task03_A\obj\Debug\netcoreapp3.1\Task03_A.genruntimeconfig.cache
